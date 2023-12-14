@@ -1,0 +1,6 @@
+[submodule "Testes_Unitários_Integração"]
+	path = Testes_Unitários_Integração
+	url = https://github.com/AsclepiusPW/Asclepius-Testes.git
+[submodule "Testes_Sistema"]
+	path = Testes_Sistema
+	url = https://github.com/Programmers-United/GuardianEye-Test.git
